@@ -29,6 +29,10 @@ YoY Growth %: To calculate the percentage increase in cases from 2018 to 2022.
 
 Gender Distribution %: DIVIDE([Male Deaths], [Total Deaths], 0)
 
+Dashboard:
+<img width="1466" height="784" alt="Screenshot 2026-03-24 125842" src="https://github.com/user-attachments/assets/bb799cbe-64fc-4ea7-ad0d-e25bcf3920c9" />
+
+
 📈 Visual Analysis Breakdown
 
 Time Series Chart: Displays a sharp rise in cases, peaking at 15.4K in 2022, suggesting a post-pandemic impact on student mental health.
